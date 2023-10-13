@@ -1,0 +1,1 @@
+Python crash cource 2nd edition
