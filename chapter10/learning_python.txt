@@ -1,0 +1,4 @@
+In Python you can create a list of objects.
+In Python you can store the information in dictionaries.
+In Python you can write functions.
+In Python you can store classes in modules.
